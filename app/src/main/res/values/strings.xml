@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ejercicio5</string>
+    <string name="edit_message">Escribe tu pregunta</string>
+    <string name="button_send">Aceptar</string>
+    <string name="text_pregunta">Haz una pregunta</string>
+    <string-array name="respuestas">
+        <item>Es cierto</item>
+        <item>Sin lugar a dudas</item>
+        <item>Lo más probable</item>
+        <item>Si</item>
+        <item>Puedes confiar en ello</item>
+    </string-array>
+    <string name="no_pregunta">No has preguntado nada</string>
+</resources>
