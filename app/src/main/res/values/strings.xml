@@ -9,6 +9,14 @@
         <item>Lo más probable</item>
         <item>Si</item>
         <item>Puedes confiar en ello</item>
+        <item>Pregunta despues</item>
+        <item>Mejor no te lo digo</item>
+        <item>Concéntrate y vuelve a preguntar</item>
+        <item>No cuentes con ello</item>
+        <item>Mi respuesta es no</item>
+        <item>Mis fuentes dicen que no</item>
+        <item>Las perspectivas no son muy buenas</item>
+        <item>Muy dudoso</item>
     </string-array>
     <string name="no_pregunta">No has preguntado nada</string>
 </resources>
